@@ -1,0 +1,1 @@
+My agent hallucinated a library, imported it confidently, and blamed the docs for not existing.
